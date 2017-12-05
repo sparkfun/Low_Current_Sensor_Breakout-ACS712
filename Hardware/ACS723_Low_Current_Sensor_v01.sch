@@ -22537,6 +22537,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheet>
 <plain>
 <text x="241.3" y="7.62" size="1.778" layer="94">v01</text>
+<text x="171.196" y="11.43" size="2.54" layer="94">Pete Dokter</text>
+<text x="148.59" y="7.112" size="2.54" layer="94">Revised by:</text>
+<text x="173.482" y="7.112" size="2.54" layer="94">Eric Orosel</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
@@ -22584,10 +22587,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="J1" gate="G$1" x="66.04" y="111.76"/>
 <instance part="J2" gate="G$1" x="66.04" y="93.98"/>
 <instance part="J3" gate="G$1" x="66.04" y="101.6"/>
-<instance part="FD1" gate="G$1" x="236.22" y="25.4"/>
-<instance part="FD2" gate="G$1" x="231.14" y="25.4"/>
-<instance part="FD3" gate="G$1" x="231.14" y="30.48"/>
-<instance part="FD4" gate="G$1" x="236.22" y="30.48"/>
+<instance part="FD1" gate="G$1" x="239.522" y="26.924"/>
+<instance part="FD2" gate="G$1" x="234.442" y="26.924"/>
+<instance part="FD3" gate="G$1" x="234.442" y="32.004"/>
+<instance part="FD4" gate="G$1" x="239.522" y="32.004"/>
 <instance part="JP1" gate="G$1" x="127" y="124.46" rot="MR180"/>
 <instance part="GND8" gate="1" x="127" y="114.3" rot="MR0"/>
 <instance part="R5" gate="G$1" x="127" y="137.16" rot="MR90"/>
@@ -22606,8 +22609,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="U2" gate="G1" x="157.48" y="101.6"/>
 <instance part="U2" gate="G2" x="165.1" y="81.28"/>
 <instance part="GND9" gate="1" x="170.18" y="66.04"/>
-<instance part="H1" gate="G$1" x="241.3" y="25.4"/>
-<instance part="H2" gate="G$1" x="241.3" y="30.48"/>
+<instance part="H1" gate="G$1" x="244.602" y="26.924"/>
+<instance part="H2" gate="G$1" x="244.602" y="32.004"/>
 </instances>
 <busses>
 </busses>

@@ -56,7 +56,7 @@
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="13" fill="1" visible="no" active="yes"/>
+<layer number="49" name="Reference" color="13" fill="1" visible="yes" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
 <layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
@@ -167,7 +167,7 @@
 <text x="22.987" y="12.7" size="1.27" layer="21" ratio="15">Vref</text>
 <text x="7.239" y="12.7" size="1.778" layer="21" ratio="15">IP+</text>
 <text x="7.239" y="0.762" size="1.778" layer="21" ratio="15">IP-</text>
-<text x="25.4" y="9.779" size="1.143" layer="22" ratio="15" rot="MR0">ACS723
+<text x="25.908" y="10.033" size="1.143" layer="22" ratio="15" rot="MR0">ACS723
 Low Current
 Sensor</text>
 <text x="14.859" y="0.508" size="0.8128" layer="16" ratio="15" rot="MR0">v01</text>
@@ -179,6 +179,9 @@ Sensor</text>
 <wire x1="24.1935" y1="7.62" x2="20.447" y2="7.62" width="0.1524" layer="22"/>
 <text x="7.3914" y="10.16" size="1.27" layer="22" ratio="15" rot="MR90">IP+</text>
 <text x="7.3914" y="2.2098" size="1.27" layer="22" ratio="15" rot="MR90">IP-</text>
+<text x="17.78" y="-12.7" size="2.032" layer="51" font="vector" ratio="7">Pete Dokter</text>
+<text x="-1.524" y="-15.24" size="2.032" layer="51" font="vector" ratio="7">Revised by:</text>
+<text x="18.288" y="-15.24" size="2.032" layer="51" font="vector" ratio="7">Eric Orosel</text>
 </plain>
 <libraries>
 <library name="SparkFun">
