@@ -1952,10 +1952,10 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="VALUE" value="100pF" x="21.971" y="2.4765" size="0.4064" layer="27" rot="R270"/>
 <attribute name="PROD_ID" value="CAP-07883" x="23.622" y="1.905" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="C2" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="23.622" y="9.4615" smashed="yes">
-<attribute name="NAME" x="22.733" y="10.16" size="0.4064" layer="25"/>
-<attribute name="VALUE" value="0.1uF" x="23.0505" y="10.0965" size="0.4064" layer="27"/>
-<attribute name="PROD_ID" value="CAP-00810" x="23.622" y="9.4615" size="1.778" layer="27" display="off"/>
+<element name="C2" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="23.622" y="9.3345" smashed="yes">
+<attribute name="NAME" x="22.733" y="10.033" size="0.4064" layer="25"/>
+<attribute name="VALUE" value="0.1uF" x="23.0505" y="9.9695" size="0.4064" layer="27"/>
+<attribute name="PROD_ID" value="CAP-00810" x="23.622" y="9.3345" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C3" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="16.891" y="12.573" smashed="yes" rot="R90">
 <attribute name="NAME" x="16.1925" y="11.684" size="0.4064" layer="25" rot="R90"/>
@@ -2170,8 +2170,8 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <wire x1="23.3426" y1="8.382" x2="22.9108" y2="8.382" width="0.3048" layer="1"/>
 <wire x1="22.9108" y1="8.382" x2="22.7584" y2="8.5344" width="0.3048" layer="1"/>
 <wire x1="22.7584" y1="8.5344" x2="22.7584" y2="9.4479" width="0.3048" layer="1"/>
-<wire x1="22.7584" y1="9.4479" x2="22.772" y2="9.4615" width="0.3048" layer="1"/>
-<wire x1="22.772" y1="9.4615" x2="22.772" y2="10.7814" width="0.3048" layer="1"/>
+<wire x1="22.7584" y1="9.4479" x2="22.772" y2="9.3345" width="0.3048" layer="1"/>
+<wire x1="22.772" y1="9.3345" x2="22.772" y2="10.7814" width="0.3048" layer="1"/>
 <wire x1="22.772" y1="10.7814" x2="21.971" y2="11.5824" width="0.3048" layer="1"/>
 <wire x1="21.971" y1="11.5824" x2="21.971" y2="12.549" width="0.3048" layer="1"/>
 <wire x1="21.971" y1="12.549" x2="21.947" y2="12.573" width="0.3048" layer="1"/>
