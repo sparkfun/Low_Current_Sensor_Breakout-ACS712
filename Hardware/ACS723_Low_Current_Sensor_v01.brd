@@ -29,10 +29,10 @@
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="16" fill="1" visible="yes" active="yes"/>
-<layer number="22" name="bPlace" color="14" fill="1" visible="no" active="yes"/>
+<layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
@@ -52,13 +52,13 @@
 <layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="13" fill="1" visible="no" active="yes"/>
+<layer number="49" name="Reference" color="13" fill="1" visible="yes" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
-<layer number="51" name="tDocu" color="6" fill="1" visible="no" active="yes"/>
+<layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
@@ -140,11 +140,11 @@
 <layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
 <layer number="225" name="225bmp" color="7" fill="1" visible="no" active="yes"/>
 <layer number="226" name="226bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="227" name="LAYER_2" color="11" fill="1" visible="no" active="yes"/>
-<layer number="228" name="LAYER_3" color="10" fill="1" visible="no" active="yes"/>
-<layer number="229" name="LAYER_4" color="14" fill="1" visible="no" active="yes"/>
-<layer number="230" name="LAYER_5" color="12" fill="1" visible="no" active="yes"/>
-<layer number="231" name="LAYER_6" color="9" fill="1" visible="no" active="yes"/>
+<layer number="227" name="LAYER_2" color="11" fill="1" visible="yes" active="yes"/>
+<layer number="228" name="LAYER_3" color="10" fill="1" visible="yes" active="yes"/>
+<layer number="229" name="LAYER_4" color="14" fill="1" visible="yes" active="yes"/>
+<layer number="230" name="LAYER_5" color="12" fill="1" visible="yes" active="yes"/>
+<layer number="231" name="LAYER_6" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="232" name="Eagle3D_PG2" color="7" fill="1" visible="no" active="yes"/>
 <layer number="233" name="Eagle3D_PG3" color="7" fill="1" visible="no" active="yes"/>
 <layer number="248" name="Housing" color="7" fill="1" visible="no" active="yes"/>
@@ -160,16 +160,16 @@
 <wire x1="0" y1="15.24" x2="31.75" y2="15.24" width="0.2032" layer="20"/>
 <wire x1="31.75" y1="15.24" x2="31.75" y2="0" width="0.2032" layer="20"/>
 <wire x1="31.75" y1="0" x2="0" y2="0" width="0.2032" layer="20"/>
-<text x="29.21" y="6.858" size="1.016" layer="21" ratio="15" rot="R180">GND</text>
-<text x="29.21" y="9.398" size="1.016" layer="21" ratio="15" rot="R180">VO</text>
-<text x="29.21" y="11.938" size="1.016" layer="21" ratio="15" rot="R180">5V</text>
+<text x="29.083" y="6.858" size="1.016" layer="21" ratio="15" rot="R180">GND</text>
+<text x="29.083" y="9.398" size="1.016" layer="21" ratio="15" rot="R180">VO</text>
+<text x="29.083" y="11.938" size="1.016" layer="21" ratio="15" rot="R180">VCC</text>
 <text x="12.5476" y="1.0414" size="1.27" layer="21" ratio="15">GAIN</text>
 <text x="27.1526" y="14.1986" size="1.27" layer="21" ratio="15" rot="R180">Vref</text>
 <text x="7.62" y="10.4902" size="1.397" layer="21" ratio="15">IP+</text>
 <text x="7.62" y="3.3528" size="1.397" layer="21" ratio="15">IP-</text>
 <text x="21.463" y="13.6144" size="1.143" layer="22" ratio="15" rot="MR0">ACS723</text>
 <text x="31.1785" y="13.716" size="0.8128" layer="16" ratio="15" rot="MR0">v01</text>
-<text x="27.1399" y="11.938" size="1.016" layer="22" ratio="15" rot="MR180">5V</text>
+<text x="26.1874" y="11.938" size="1.016" layer="22" ratio="15" rot="MR180">VCC</text>
 <text x="27.1399" y="9.398" size="1.016" layer="22" ratio="15" rot="MR180">VO</text>
 <text x="26.2001" y="6.858" size="1.016" layer="22" ratio="15" rot="MR180">GND</text>
 <text x="24.1173" y="7.8613" size="0.8128" layer="22" font="vector" ratio="15" rot="MR0">80kHz</text>
