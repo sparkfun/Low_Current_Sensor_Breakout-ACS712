@@ -22615,10 +22615,10 @@ Select:</text>
 <instance part="J1" gate="G$1" x="50.8" y="165.1"/>
 <instance part="J2" gate="G$1" x="50.8" y="147.32"/>
 <instance part="J3" gate="G$1" x="50.8" y="154.94"/>
-<instance part="FD1" gate="G$1" x="239.522" y="26.924"/>
-<instance part="FD2" gate="G$1" x="234.442" y="26.924"/>
-<instance part="FD3" gate="G$1" x="234.442" y="32.004"/>
-<instance part="FD4" gate="G$1" x="239.522" y="32.004"/>
+<instance part="FD1" gate="G$1" x="244.602" y="26.924"/>
+<instance part="FD2" gate="G$1" x="239.522" y="26.924"/>
+<instance part="FD3" gate="G$1" x="239.522" y="32.004"/>
+<instance part="FD4" gate="G$1" x="244.602" y="32.004"/>
 <instance part="JP1" gate="G$1" x="195.58" y="134.62" smashed="yes" rot="MR180">
 <attribute name="NAME" x="189.23" y="133.731" size="1.778" layer="95" font="vector" rot="MR180"/>
 </instance>
@@ -22639,7 +22639,7 @@ Select:</text>
 <instance part="U2" gate="G1" x="68.58" y="58.42"/>
 <instance part="U2" gate="G2" x="99.06" y="43.18"/>
 <instance part="GND9" gate="1" x="104.14" y="27.94"/>
-<instance part="H1" gate="G$1" x="244.602" y="26.924"/>
+<instance part="H1" gate="G$1" x="234.442" y="26.924"/>
 <instance part="C5" gate="G$1" x="53.34" y="124.46"/>
 <instance part="GND2" gate="1" x="53.34" y="116.84"/>
 </instances>
