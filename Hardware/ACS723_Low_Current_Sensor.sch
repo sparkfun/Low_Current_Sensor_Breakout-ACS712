@@ -22610,7 +22610,7 @@ to increase gain</text>
 <text x="27.686" y="12.446" size="2.54" layer="97">VR2 (VREF): turns
 clockwise to increase 
 output reference voltage</text>
-<text x="2.286" y="180.34" size="2.54" layer="97">ACS723</text>
+<text x="2.286" y="180.34" size="2.54" layer="97">ACS723LLCTR-05AB-T2</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
