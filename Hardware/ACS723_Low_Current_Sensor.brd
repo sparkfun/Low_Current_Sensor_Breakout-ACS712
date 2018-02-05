@@ -6,23 +6,9 @@
 <setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
+<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.001" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="yes"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="no" active="yes"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="no" active="yes"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="no" active="yes"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="no" active="yes"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="no" active="yes"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="no" active="yes"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="no" active="yes"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="no" active="yes"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="no" active="yes"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="no" active="yes"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="yes"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="no" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
@@ -56,7 +42,7 @@
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="13" fill="1" visible="no" active="yes"/>
+<layer number="49" name="Reference" color="13" fill="1" visible="yes" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
 <layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
@@ -140,11 +126,6 @@
 <layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
 <layer number="225" name="225bmp" color="7" fill="1" visible="no" active="yes"/>
 <layer number="226" name="226bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="227" name="LAYER_2" color="11" fill="1" visible="yes" active="yes"/>
-<layer number="228" name="LAYER_3" color="10" fill="1" visible="yes" active="yes"/>
-<layer number="229" name="LAYER_4" color="14" fill="1" visible="yes" active="yes"/>
-<layer number="230" name="LAYER_5" color="12" fill="1" visible="yes" active="yes"/>
-<layer number="231" name="LAYER_6" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="232" name="Eagle3D_PG2" color="7" fill="1" visible="no" active="yes"/>
 <layer number="233" name="Eagle3D_PG3" color="7" fill="1" visible="no" active="yes"/>
 <layer number="248" name="Housing" color="7" fill="1" visible="no" active="yes"/>
@@ -171,7 +152,7 @@
 <text x="31.1785" y="13.716" size="0.8128" layer="16" ratio="15" rot="MR0">v10</text>
 <text x="26.1874" y="11.938" size="1.016" layer="22" ratio="15" rot="MR180">VCC</text>
 <text x="25.2349" y="9.398" size="1.016" layer="22" ratio="15" rot="MR180">VOUT</text>
-<text x="26.2001" y="6.858" size="1.016" layer="22" ratio="15" rot="MR180">GND</text>
+<text x="26.1747" y="6.858" size="1.016" layer="22" ratio="15" rot="MR180">GND</text>
 <text x="20.0787" y="8.8265" size="0.8128" layer="22" font="vector" ratio="15" rot="MR0">80kHz-CLOSED</text>
 <text x="20.0787" y="7.6327" size="0.8128" layer="22" font="vector" ratio="15" rot="MR0">20kHz-OPEN</text>
 <wire x1="20.2819" y1="8.636" x2="11.4554" y2="8.636" width="0.1524" layer="22"/>
