@@ -15,6 +15,10 @@ Repository Contents
 * **/Production** - Production .brd files
 * **/Software** - Arduino example sketch
 
+Documentation
+-------------------
+[Hookup Guide](https://learn.sparkfun.com/tutorials/current-sensor-breakout-acs723-hookup-guide) - Basic hookup guide for the ACS723 Current Sensor Breakout (Low Current).
+
 License Information
 -------------------
 The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
