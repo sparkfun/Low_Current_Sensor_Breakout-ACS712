@@ -1,9 +1,9 @@
 SparkFun Low Current Sensor Breakout Board - ACS723
 ======================================================
 
-![SparkFun Low Current Sensor Breakout Board - ACS723](https://cdn.sparkfun.com/assets/parts/1/1/1/3/1/13679-SparkFun_Current_Sensor_Breakout_-_ACS723_-01.jpg)
+![SparkFun Low Current Sensor Breakout Board - ACS723](https://cdn.sparkfun.com/assets/parts/1/2/6/6/7/14544-SparkFun_Current_Sensor_Breakout_-_ACS723__Low_Current_-01.jpg)
 
-[*SparkFun Low Current Sensor Breakout Board - ACS723 (SEN-13679)*](https://www.sparkfun.com/products/13679) 
+[*SparkFun Low Current Sensor Breakout Board - ACS723 (SEN-14544)*](https://www.sparkfun.com/products/14544) 
 
 This current sensor gives precise current measurement for both AC and DC signals. 
 These are good sensors for metering and measuring overall power consumption of systems.
