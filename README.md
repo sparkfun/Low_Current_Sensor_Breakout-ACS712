@@ -13,8 +13,21 @@ Repository Contents
 -------------------
 * **/Hardware** - All Eagle design files (.brd, .sch)
 
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/acs712-low-current-sensor-hookup-guide)** - Basic hookup guide for the ACS712.
+
 License Information
 -------------------
-The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+
+This product is _**open source**_! 
+
+Please review the LICENSE.md file for license information. 
+
+If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
 
 Distributed as-is; no warranty is given.
+
+- Your friends at SparkFun.
+
+_<COLLABORATION CREDIT>_
