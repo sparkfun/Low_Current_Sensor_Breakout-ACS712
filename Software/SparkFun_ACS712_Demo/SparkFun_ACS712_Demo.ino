@@ -1,13 +1,15 @@
-/*  SparkFun ACS712 Demo
+/*  SparkFun ACS712 and ACS723 Demo
     Created by George Beckstein for SparkFun
     4/30/2017
+    Updated by SFE
+    6/14/2018
 
-    Uses an Arduino to set up the ACS712 Current Sensor
+    Uses an Arduino to set up the ACS712 and ACS723 Current Sensors
     See the product page at: https://www.sparkfun.com/products/8883
 
     Parts you may need:
     - 100 Ohm, 1/2W or greater resistor OR two 220 Ohm 1/4 resistors in parallel
-    - ACS712 Breakout with on-board amplifier
+    - ACS712 Breakout with on-board amplifier or ACS723 Current Sensor (Low Current)
 
     Optional equipment:
     - Oscilloscope
@@ -67,7 +69,7 @@ void loop() {
    * To see a plot of the output. Adjust the Vref potentiometer to set the reference
    * voltage. This allows the sensor to output positive and negative currents!
    *************************************************************************************/
-  
+
   Serial.print(voltage);
   //Serial.print("mV");
 
@@ -92,7 +94,7 @@ void loop() {
    * This next line of code will print out the calculated current from these parameters.
    * The output is in mA
    *************************************************************************************/
-  
+
   //Serial.print(current);
   //Serial.print("mA");
 
