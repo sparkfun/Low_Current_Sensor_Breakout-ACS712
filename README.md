@@ -1,6 +1,8 @@
-**Retired Product**
-======================================================
-This is a retired product. There is an updated version available: [SEN-14544](https://github.com/sparkfun/Current_Sensor_Breakout-ACS723-Low_Current)
+**NOTE:** *This product has been retired from our catalog. There is an updated drop-in replacement with the ACS723 available: [SEN-14544](https://github.com/sparkfun/Current_Sensor_Breakout-ACS723-Low_Current). If you are looking for more up-to-date info, please check out some of these resources to see how other users are still hacking and improving on this product version.*
+
+* *[SparkFun Forum](https://forum.sparkfun.com/)*
+* *[Comments Here on GitHub](https://github.com/sparkfun/Low_Current_Sensor_Breakout-ACS712/issues)*
+* *[IRC Channel](https://www.sparkfun.com/news/263)*
 
 SparkFun Low Current Sensor Breakout Board - ACS712 (RETIRED)
 ======================================================
@@ -20,6 +22,11 @@ Repository Contents
 Documentation
 --------------
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/acs712-low-current-sensor-hookup-guide)** - Basic hookup guide for the ACS712.
+
+Product Versions
+----------------
+
+* [SEN-14544 (RETIRED)](https://www.sparkfun.com/products/8883)- Initial release; ACS712 Version of this Board
 
 License Information
 -------------------
