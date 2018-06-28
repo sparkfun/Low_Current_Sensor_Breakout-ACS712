@@ -26,7 +26,7 @@ Documentation
 Product Versions
 ----------------
 
-* [SEN-14544 (RETIRED)](https://www.sparkfun.com/products/8883)- Initial release; ACS712 Version of this Board
+* [SEN-08883 (RETIRED)](https://www.sparkfun.com/products/8883)- Initial release; ACS712 Version of this Board
 
 License Information
 -------------------
