@@ -4,7 +4,7 @@
 * *[Comments Here on GitHub](https://github.com/sparkfun/Low_Current_Sensor_Breakout-ACS712/issues)*
 * *[IRC Channel](https://www.sparkfun.com/news/263)*
 
-SparkFun Low Current Sensor Breakout Board - ACS712 (RETIRED)
+SparkFun Low Current Sensor Breakout Board - ACS712
 ======================================================
 
 ![SparkFun Low Current Sensor Breakout Board - ACS712](https://cdn.sparkfun.com//assets/parts/2/1/5/6/08883-1.jpg)
